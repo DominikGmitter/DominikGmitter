@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DominikGmitter
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning CS50
-- 📫 How to reach me : dominik(dot)gmitter(at)gmail(dot)com
+- - 🌱 I’m currently learning CS50x
+- 👀 I’m interested in programming, if you'd like to request more projects I worked on reach me on > dominik(dot)gmitter(at)gmail(dot)com
 - My website : https://dominikgmitter.github.io/web
 
 <!---
