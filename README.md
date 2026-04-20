@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning CS50
 - 📫 How to reach me : dominik(dot)gmitter(at)gmail(dot)com
-- My website : https://dominikgmitter.github.io/webstranka/
+- My website : https://dominikgmitter.github.io/web
 
 <!---
 DominikGmitter/DominikGmitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
